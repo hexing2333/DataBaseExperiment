@@ -1,0 +1,1 @@
+update tbcellnew set PCI = 400 where SECTOR_ID = '124694-0'
